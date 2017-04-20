@@ -33,7 +33,7 @@ git clone git@github.com:jpdevries/neat-pages.git %USERPROFILE%/.grunt-init/neat
 
 ## Usage
 
-At the command-line, cd into an empty directory, run this command and follow the prompts. 
+At the command-line, create a new directory, cd into the directory, run this command and follow the prompts. 
 
 ```
 grunt-init neat-pages
