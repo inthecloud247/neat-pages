@@ -9,9 +9,11 @@ You can use Sass, LESS or plain-CSS editing and choose from includes like Bootst
 > Create a new project with [grunt-init][].
 
 [grunt-init]: http://gruntjs.com/project-scaffolding
+[gruntcli]: https://gruntjs.com/getting-started
+
 
 ## Installation
-If you haven't already done so, install [grunt-init][]:
+If you haven't already done so, install [gruntcli] and [grunt-init][]:
 
 ```
 npm install -g grunt-init
